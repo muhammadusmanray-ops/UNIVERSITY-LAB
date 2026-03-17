@@ -1,0 +1,7 @@
+STUDENT PERFORMANCE REPORT
+==============================
+Alice Johnson: 85.00
+Bob Smith: 72.33
+Charlie Brown: 91.00
+David Wilson: 66.00
+Eva Davis: 95.00

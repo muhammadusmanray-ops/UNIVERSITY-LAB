@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Alice Johnson", "math": 85, "science": 92, "english": 78},
+  {"id": 2, "name": "Bob Smith", "math": 72, "science": 65, "english": 80},
+  {"id": 3, "name": "Charlie Brown", "math": 90, "science": 88, "english": 95},
+  {"id": 4, "name": "David Wilson", "math": 60, "science": 70, "english": 68},
+  {"id": 5, "name": "Eva Davis", "math": 95, "science": 98, "english": 92}
+]

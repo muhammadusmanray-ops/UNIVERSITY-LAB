@@ -15,19 +15,19 @@ Is lab mein humne **NumPy** library ka istemal karte huye data manipulation aur 
 
 ---
 
-## 📸 Lab Execution Screenshots
+## 📸 Lab Execution Screenshots (Exact from Colab)
 
-### 1. Stock Price Graph & Tasks
-![Stock Price Graph](graph_and_tasks.png)
+### 1. Initial Setup & Task 12
+![Screenshot 1](sc1.png)
 
-### 2. Array Indexing & Slicing
-![Indexing Screenshot](task_indexing.png)
+### 2. Indexing & Slicing Results
+![Screenshot 2](sc2.png)
 
-### 3. Statistical Analysis
-![Stats Screenshot](task_stats.png)
+### 3. Statistical Analysis Output
+![Screenshot 3](sc3.png)
 
-### 4. Random Generation & Sampling
-![Random Task Screenshot](task_random.png)
+### 4. Random Sampling & Final Graph
+![Screenshot 4](sc4.png)
 
 ---
 

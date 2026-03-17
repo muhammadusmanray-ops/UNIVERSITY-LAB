@@ -13,6 +13,9 @@ Is lab mein humne **NumPy** library ka istemal karte huye data manipulation aur 
 5. **Task 16 (Linear Algebra)**: Matrix Multiplication (Dot Product) perform kiya.
 6. **Task 17 (Random Sampling)**: Random numbers generate kiye.
 
+### Live Lab on Google Colab:
+[View Lab 3 Notebook](https://colab.research.google.com/drive/14knareapIKU7A-nkluvx-jPOSyP__YyT?usp=sharing)
+
 ---
 
 ## 📸 Lab Execution Screenshots (Exact from Colab)

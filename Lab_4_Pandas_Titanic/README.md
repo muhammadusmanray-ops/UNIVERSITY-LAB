@@ -1,5 +1,25 @@
 # Lab 4: Data Analysis & Visualization (Titanic Dataset)
 
+![Data Pipeline Visual](pipeline_visual.png)
+
+## 📊 Data Engineering Pipeline
+Mera industrial workflow kasy kaam karta hai (Flowchart):
+
+```mermaid
+graph TD
+    A[Raw Data / CSV / SQL] -->|Task 18| B(Data Loading - Pandas)
+    B -->|Task 19| C(Initial Scan - EDA)
+    C -->|Task 22| D{Handle Missing Data}
+    D -->|fillna/dropna| E(Cleaned Data)
+    E -->|Task 23| F(Feature Engineering)
+    F --> G(Visual Analysis - Graphs)
+    G --> H[Model Training / AI]
+    
+    style A fill:#00d2ff,stroke:#333,stroke-width:2px
+    style H fill:#9d50bb,stroke:#333,stroke-width:2px
+    style D fill:#ff4b2b,stroke:#333,stroke-width:2px
+```
+
 ## Overview (Roman Urdu Mein)
 Is lab mein humne **Pandas** library ke zariye real-world data handling aur visualization seekhi hai. Titanic dataset use karne ka maqsad ye tha ke hum samajh sakein ke kasy gande (messy) data ko AI model ke liye tayaar kiya jata hai aur graphs ke zariye trends kasy dekhte hain.
 
